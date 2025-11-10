@@ -9,14 +9,14 @@ A deep learning project for recognizing handwritten digits, developed for the Ka
 
 ## Overview
 
-This project implements a (Convolutional Neural Network / *Specify your model type here*) using *[e.g., TensorFlow/Keras or PyTorch]* to classify images of handwritten digits from 0 to 9.
+This project implements a (Convolutional Neural Network) using *[e.g., TensorFlow/Keras or PyTorch]* to classify images of handwritten digits from 0 to 9.
 
 The primary goal is to achieve high accuracy on the Kaggle competition dataset. A secondary feature is an interactive canvas application where a user can draw a digit with their mouse, and the trained model will predict the number.
 
 
 ---
 
-## 🛠️ Technical Stack & Setup
+## Technical Stack & Setup
 
 This project uses several deep learning and data processing libraries. To ensure a stable and reproducible environment, **Poetry** is highly recommended for dependency management.
 
@@ -27,7 +27,7 @@ This project uses several deep learning and data processing libraries. To ensure
 * NumPy
 * Pandas
 * Scikit-learn (for metrics)
-* *Optional (for GUI):* Tkinter / Pygame / Gradio
+
 
 ---
 
