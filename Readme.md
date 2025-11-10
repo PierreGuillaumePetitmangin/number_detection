@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition (Kaggle)
 
-A deep learning project for recognizing handwritten digits, developed for the Kaggle "Digit Recognizer" competition. This repository includes scripts for training a model on the MNIST dataset and an interactive GUI for real-time predictions of hand-drawn numbers.
+A deep learning project for recognizing handwritten digits, developed for the Kaggle "Digit Recognizer" competition. 
 
 **Author:** Pierre-Guillaume Petitmangin
 **Affiliation:** École des Mines
@@ -9,10 +9,9 @@ A deep learning project for recognizing handwritten digits, developed for the Ka
 
 ## Overview
 
-This project implements a (Convolutional Neural Network) using *[e.g., TensorFlow/Keras or PyTorch]* to classify images of handwritten digits from 0 to 9.
+This project implements a Convolutional Neural Network to classify images of handwritten digits from 0 to 9.
 
-The primary goal is to achieve high accuracy on the Kaggle competition dataset. A secondary feature is an interactive canvas application where a user can draw a digit with their mouse, and the trained model will predict the number.
-
+The primary goal is to achieve high accuracy on the Kaggle competition dataset. 
 
 ---
 
